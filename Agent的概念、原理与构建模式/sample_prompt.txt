@@ -1,0 +1,1 @@
+generate snake game by html, css and javascript and place these to current sub folder ./snake 
